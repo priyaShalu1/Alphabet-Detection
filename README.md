@@ -8,11 +8,6 @@ Alphabet detection identifies and classifies hand gestures representing letters,
 🛠 Easy to run and customize
 📈 Pre-trained on a custom sign language alphabet dataset
 
-🛠 Installation
-1. Clone the repository
-git clone https://github.com/yourusername/alphabetsDetection.git
-cd alphabetsDetection
-
 2.Install dependencies
 pip install -r requirements.txt
 
